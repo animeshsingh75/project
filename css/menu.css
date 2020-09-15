@@ -1,0 +1,82 @@
+.category-title {
+    position: relative;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 15px;
+}
+
+.category-title span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    background-color: #000;
+    color: #fff;
+    opacity: 0.8;
+}
+
+.category-title:hover {
+    box-shadow: 0 1px 5px 1px #cccccc;
+}
+
+.menu-categories-title+div {
+    margin-bottom: 50px;
+}
+
+.menu-categories-title {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+
+/*End of Menu Category*/
+
+
+/********** XLarge devices only **********/
+
+@media (min-width: 1200px) {}
+
+
+/********** Large devices only **********/
+
+@media (max-width: 1199.98px) and (min-width: 992px) {}
+
+
+/********** Medium devices only **********/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*Menu Categories*/
+    .p-info {
+        font-size: 0.8em;
+        margin-bottom: 30px;
+    }
+    /*End Menu Categories*/
+}
+
+
+/*Small Devices Only*/
+
+@media (min-width:576px)and (max-width:767.98px) {
+    /*Menu Categories*/
+    .p-info {
+        font-size: 0.7em;
+        margin-bottom: 20px;
+    }
+}
+
+
+/*XS Device*/
+
+@media (max-width: 575.98px) {
+    .menu-categories-title {
+        font-size: 1.5em;
+    }
+    .p-info {
+        font-size: 0.6em;
+    }
+    /*End Menu Categories*/
+}

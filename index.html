@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>David Chu's China Bistro</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/loader.css">
+    <link rel="stylesheet" href="css/single.css">
+    <link rel="stylesheet" type="text/css" href="font/flaticon.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="images/restaurant-logo_small.png" type=image/x-icon>
+</head>
+
+<body>
+    <header>
+        <nav id="header-nav" class="navbar navbar-expand-md navbar-light">
+            <!-- header-nav is a custom made class for background color else remaining classes are bootstrap classes -->
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- Bootstrap class -->
+                    <a href="index.html" class="float-left d-none d-lg-block">
+                        <div id="logo-img"></div>
+                    </a>
+                    <div class="navbar-brand">
+                        <a href="index.html">
+                            <h1>David Chu's China Bistro</h1>
+                        </a>
+                        <p>
+                            <img src="images/star-k-logo.png" alt="Koscher Certification">
+                            <span>Koscher Certified</span>
+                        </p>
+                    </div>
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                    <ul id="nav-list" class="navbar-nav ml-auto">
+                        <li class="nav-item  d-block d-sm-block d-md-none ">
+                            <a class="nav-link navHomeButton active" href="index.html ">
+                                <span class="flaticon-home "></span>Home
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link navMenuButton" href="# " onclick="$dc.loadMenuCategories(); ">
+                                <span class="flaticon-fork "><br class="d-none d-md-block "></span> Menu
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link " href="# ">
+                                <span class="flaticon-information "><br class="d-none d-md-block "></span> About
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a class="nav-link " href="# ">
+                                <span class="flaticon-award "><br class="d-none d-md-block "></span> Awards
+                            </a>
+                        </li>
+                        <li class="phone nav-item d-none d-md-block ">
+                            <a class="nav-link " href="tel:410-602-5008 ">
+                                <span>410-602-5008</span>
+                            </a>
+                            <div>* We deliver</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--Contact Number Box for xs and small screen devices-->
+        <div class="container ">
+            <div class="call-btn d-block d-md-none ">
+                <a class="btn " href="tel:410-602-5008 ">
+                    <span class="flaticon-phone "></span> 410-602-5008
+                </a>
+            </div>
+        </div>
+    </header>
+    <!--Main Content-->
+    <div class="container main-content ">
+
+    </div>
+    <!--Footer-->
+    <footer class=" card-footer ">
+        <div class="container ">
+            <div class="row ">
+                <section class="hours col-md-4 col-sm-6 ">
+                    <span>Hours:</span><br> Sun-Thurs: 11:15am - 10:00pm<br> Fri: 11:15am - 2:30pm<br> Saturday closed
+                    <hr class="d-block d-sm-none ">
+                </section>
+                <section class="address col-md-4 col-sm-6 ">
+                    <span>Address:</span><br> 7105 Reisterstown Road<br> Baltimore,MD 21215<br>
+                    <p>*Delivery area within 3-4 miles with minimum order of $20 plus $3 charge for all deliveries</p>
+                    <hr class="d-block d-sm-none ">
+                </section>
+                <hr class=" d-none d-sm-block d-md-none ">
+                <section class="testimonials col-md-4 offset-sm-0 offset-md-0 ">
+                    <p>"The best Chinese restaurant I 've been to! And that's saying a lot, since I 've been to many!"</p>
+                    <p>"Amazing food! Great service! Couldn't ask for more! I 'll be back again and again!"</p>
+                </section>
+            </div>
+            <div class="text-center copyright">&copy; Copyright David Chu's China Bistro 2020 </div>
+        </div>
+    </footer>
+</body>
+<script src="js/jquery-3.5.1.min.js "></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/ajax-utils.js"></script>
+<script src="js/script.js"></script>
+
+</html>
