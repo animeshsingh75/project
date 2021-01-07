@@ -35,6 +35,7 @@ https://animeshsingh75.github.io/project/
 <img src="images/Screenshots/home1200.png" width="300" height="500"/>
 <img src="images/Screenshots/menu1200.png" width="300" height="500"/>
 <img src="images/Screenshots/specials1200.png" width="300" height="500"/>
+ <br/>
  </p>
 
 * 768px-1199px
@@ -42,6 +43,7 @@ https://animeshsingh75.github.io/project/
 <img src="images/Screenshots/home1199.png" width="300" height="500"/>
 <img src="images/Screenshots/menu1199.png" width="300" height="500"/>
 <img src="images/Screenshots/specials1199.png" width="300" height="500"/>
+  <br/>
  </p>
 
 
@@ -50,6 +52,7 @@ https://animeshsingh75.github.io/project/
 <img src="images/Screenshots/home767.png" width="300" height="600"/>
 <img src="images/Screenshots/menu767.png" width="300" height="600"/>
 <img src="images/Screenshots/specials767.png" width="300" height="600"/>
+ <br/>
  </p>
  
 * 575px and below
@@ -57,6 +60,7 @@ https://animeshsingh75.github.io/project/
 <img src="images/Screenshots/home575.png" width="300" height="700"/>
 <img src="images/Screenshots/menu575.png" width="300" height="700"/>
 <img src="images/Screenshots/specials575.png" width="300" height="700"/>
+ <br/>
  </p>
 
 
