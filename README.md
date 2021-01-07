@@ -3,11 +3,28 @@
 __This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.__
 ## Table of contents 
 * <a href="#pages">Pages </a>
-* <a href="#screenshots">Screenshots </a>
 * <a href="#tech-and-framework-used">Tech and framework used </a>
 * <a href="#link-to-the-project ">Link to the project  </a>
+* <a href="#screenshots">Screenshots </a>
+
 ## Pages
- 
+There are 3 pages in the website-:
+* Home
+* Menu
+* Single Menu Category 
+ ## Tech and framework used
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Ajax
+
+
+
+## Link to the project 
+
+https://animeshsingh75.github.io/project/
+
 ## Screenshots
 * 1200px and above
 <p float="left">
@@ -38,18 +55,6 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
 <img src="images/Screenshots/specials575.png" width="300" height="700"/>
  </p>
 
-## Tech and framework used
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* Ajax
-
-
-
-## Link to the project 
-
-https://animeshsingh75.github.io/project/
 
 
 
