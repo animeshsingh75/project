@@ -10,6 +10,7 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
  
 ## Screenshots
 * 1200px and above
+![1200 Home](project/images/Screenshots/home1200.png)
 * 768px-1199px
 * 576px-767px
 * 575px and below
