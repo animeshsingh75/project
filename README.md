@@ -5,7 +5,7 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
 * <a href="#pages">Pages </a>
 * <a href="#screenshots">Screenshots </a>
 * <a href="#tech-and-framework-used">Tech and framework used </a>
-* <a href="#link-to-the-project ">Tech and framework used </a>
+* <a href="#link-to-the-project ">Link to the project  </a>
 ## Pages
  
 ## Screenshots
