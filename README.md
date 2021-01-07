@@ -30,9 +30,9 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
  </p>
 * 575px and below
 <p float="left">
-<img src="images/Screenshots/home575.png" width="300" height="800"/>
-<img src="images/Screenshots/menu575.png" width="300" height="800"/>
-<img src="images/Screenshots/specials575.png" width="300" height="800"/>
+<img src="images/Screenshots/home575.png" width="300" height="700"/>
+<img src="images/Screenshots/menu575.png" width="300" height="700"/>
+<img src="images/Screenshots/specials575.png" width="300" height="700"/>
  </p>
 
 ## Tech and framework used
