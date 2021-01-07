@@ -1,10 +1,11 @@
-## Restaurant Site
-This is a sample site for restaurant.It includes the menu,location,photos of the dishes and even the prices.
+<h1 align="center">Restaurant Site</h1>
 
-## Screenshots
+This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.
+ 
+### Screenshots
 Include logo/demo screenshot etc.
 
-## Tech/framework used
+### Tech/framework used
 * HTML
 * CSS
 * JavaScript
@@ -13,7 +14,7 @@ Include logo/demo screenshot etc.
 
 
 
-## Link to the project 
+### Link to the project 
 
 https://animeshsingh75.github.io/project/
 
