@@ -1,6 +1,6 @@
 <h1 align="center">Restaurant Site</h1>
 <h3 align="center">Introduction</h3>
-<p><b>This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.All images present in the menu  and single menu are dynamically loaded using ajax and even the price and description are fetched from a json file deployed on heroku.Also a simple loader is present on the website
+<p><b>This is a sample site for restaurant which is fully responsive. It includes the menu,location of the restaurant,photos and description of the dishes and even the prices. All images present in the menu  and single menu are dynamically loaded using ajax and even the price and description are fetched from a json file deployed on heroku.Also a simple loader is present on the website
  <br/></b></p>
 
 <h2 align="center">Table of contents </h2>
@@ -11,9 +11,9 @@
 * <a href="#screenshots">Screenshots </a>
 
 ## Pages
-There are 3 pages in the website-:
-* Home
-* Menu
+__There are 3 pages in the website-:__
+* Home-: This page contains a jumbotron, 3 tiles which contain a map,menu and also special menu category.Also 
+* Menu-: This page shows all the menu categories present.All the images and even the menu category text is loaded dynamically uaing ajax and the data present in a json file hosted on heroku.
 * Single Menu Category 
  ## Tech and framework used
 * HTML
