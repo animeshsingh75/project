@@ -10,7 +10,8 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
  
 ## Screenshots
 * 1200px and above
-![1200 Home](images/Screenshots/home1200.png)
+<img src="images/Screenshots/home1200.png" width="300" height="800"/>
+
 * 768px-1199px
 * 576px-767px
 * 575px and below
