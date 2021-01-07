@@ -11,9 +11,9 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
 ## Screenshots
 * 1200px and above
 <p float="left">
- <img src="images/Screenshots/home1200.png" width="400" height="700"/>
-<img src="images/Screenshots/menu1200.png" width="400" height="700"/>
- <img src="images/Screenshots/specials1200.png" width="400" height="700"/>
+<img src="images/Screenshots/home1200.png" width="300" height="600"/>
+<img src="images/Screenshots/menu1200.png" width="300" height="600"/>
+<img src="images/Screenshots/specials1200.png" width="300" height="600"/>
  </p>
 
 * 768px-1199px
