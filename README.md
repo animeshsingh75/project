@@ -1,11 +1,20 @@
 <h1 align="center">Restaurant Site</h1>
 
-This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.
+__This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.__
+## Table of contents 
+* <a href="#pages">Pages </a>
+* <a href="#screenshots">Screenshots </a>
+* <a href="#tech-and-framework-used">Tech and framework used </a>
+* <a href="#link-to-the-project ">Tech and framework used </a>
+## Pages
  
 ## Screenshots
-Include logo/demo screenshot etc.
+* 1200px and above
+* 768px-1199px
+* 576px-767px
+* 575px and below
 
-### Tech/framework used
+## Tech and framework used
 * HTML
 * CSS
 * JavaScript
@@ -14,7 +23,7 @@ Include logo/demo screenshot etc.
 
 
 
-### Link to the project 
+## Link to the project 
 
 https://animeshsingh75.github.io/project/
 
