@@ -2,7 +2,7 @@
 
 This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.
  
-### Screenshots
+## Screenshots
 Include logo/demo screenshot etc.
 
 ### Tech/framework used
