@@ -12,9 +12,10 @@
 
 ## Pages
 __There are 3 pages in the website-:__
-* Home-: This page contains a jumbotron, 3 tiles which contain a map,menu and also special menu category.Also 
-* Menu-: This page shows all the menu categories present.All the images and even the menu category text is loaded dynamically uaing ajax and the data present in a json file hosted on heroku.
-* Single Menu Category 
+* Home-: This page contains a jumbotron, 3 tiles which contain a map,menu and also special menu category. Also there is a responsive navbar present which collapses when the screen size is below 768px and similarly a responsive footer is also present.
+* Menu-: This page shows all the menu categories present.All the images and even the menu category text is loaded dynamically using ajax and the data present in a json file hosted on heroku.
+* Single Menu Category-: This page contains the description of the dish,price of a small portoin and large portion and even an image for the same.Just like the menu page everything on this page is loaded dynamically and the json in which the data is present is hosted on heroku.
+
  ## Tech and framework used
 * HTML
 * CSS
