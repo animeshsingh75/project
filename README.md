@@ -1,6 +1,6 @@
 <h1 align="center">Restaurant Site</h1>
 
-__This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.__
+__This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.All images present in the menupages and single menu are dynamically loaded using ajax and even the price and description are fetched from a json file deployed on heroku__
 <br/><br/><br/>
 
 <h2 align="center">Table of contents </h2>
