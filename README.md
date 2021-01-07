@@ -1,6 +1,8 @@
 <h1 align="center">Restaurant Site</h1>
 
 __This is a sample site for restaurant. It includes the menu,location,photos of the dishes and even the prices.__
+<br/>
+
 ## Table of contents 
 * <a href="#pages">Pages </a>
 * <a href="#tech-and-framework-used">Tech and framework used </a>
