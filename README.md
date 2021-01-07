@@ -17,6 +17,11 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
  </p>
 
 * 768px-1199px
+<p float="left">
+<img src="images/Screenshots/home1199.png" width="300" height="600"/>
+<img src="images/Screenshots/menu1199.png" width="300" height="600"/>
+<img src="images/Screenshots/specials1199.png" width="300" height="600"/>
+ </p>
 * 576px-767px
 * 575px and below
 
