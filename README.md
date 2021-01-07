@@ -18,9 +18,9 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
 
 * 768px-1199px
 <p float="left">
-<img src="images/Screenshots/home1199.png" width="300" height="600"/>
-<img src="images/Screenshots/menu1199.png" width="300" height="600"/>
-<img src="images/Screenshots/specials1199.png" width="300" height="600"/>
+<img src="images/Screenshots/home1199.png" width="300" height="500"/>
+<img src="images/Screenshots/menu1199.png" width="300" height="500"/>
+<img src="images/Screenshots/specials1199.png" width="300" height="500"/>
  </p>
 * 576px-767px
 <p float="left">
@@ -30,9 +30,9 @@ __This is a sample site for restaurant. It includes the menu,location,photos of 
  </p>
 * 575px and below
 <p float="left">
-<img src="images/Screenshots/home575.png" width="300" height="600"/>
-<img src="images/Screenshots/menu575.png" width="300" height="600"/>
-<img src="images/Screenshots/specials575.png" width="300" height="600"/>
+<img src="images/Screenshots/home575.png" width="300" height="700"/>
+<img src="images/Screenshots/menu575.png" width="300" height="700"/>
+<img src="images/Screenshots/specials575.png" width="300" height="700"/>
  </p>
 
 ## Tech and framework used
